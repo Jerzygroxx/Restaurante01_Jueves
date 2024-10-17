@@ -20,6 +20,8 @@ export const Ruteo  = ()=>{
             <Route path="/menuacer" element={<Acerca/>}/>
 
             <Route path="*" element={<NoEncontrado/>}/>
+            
+
         </Routes>
     )
 }
