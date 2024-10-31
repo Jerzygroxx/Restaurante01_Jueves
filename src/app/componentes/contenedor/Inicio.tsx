@@ -6,9 +6,7 @@ export const Inicio = () => {
           <div className="h-100 p-5 text-bg-dark rounded-3">
             <h2>Inicio</h2>
             <p>
-              Swap the background-color utility and add a `.text-*` color
-              utility to mix up the jumbotron look. Then, mix and match with
-              additional component themes and more.
+              Hola estes es nuestro restaurante Unicosta, tenemos los mejores platos y los mejores ejecutivos
             </p>
             <button className="btn btn-outline-light" type="button">
               Example button
