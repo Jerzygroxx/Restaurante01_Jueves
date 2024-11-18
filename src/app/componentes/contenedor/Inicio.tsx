@@ -1,19 +1,22 @@
 export const Inicio = () => {
   return (
     <>
-      <div className="pt-5 d-flex justify-content-center">
-        <div className="col-md-6">
-          <div className="h-100 p-5 text-bg-dark rounded-3">
-            <h2>Inicio</h2>
-            <p>
-              Hola estes es nuestro restaurante Unicosta, tenemos los mejores platos y los mejores ejecutivos
-            </p>
-            <button className="btn btn-outline-light" type="button">
-              Example button
-            </button>
-          </div>
+    <div className="pt-5 d-flex justify-content-center">
+      <div className="col-md-6">
+       <div className="h-100 p-5 text-bg-dark rounded-3">
+
+        <h2>Unicosta Fast Food</h2>
+        <p>
+          Bienvenidos a nuestro restaurante, sera un placer atenderte en el dia de hoy, contamos con una amplica variedad de platillos disponibles y mucha creatividad en nuestros platos, estamos encantando de recibirte.
+        </p>
+        <button className="btn btn-outline-light" type="button">
+          Continuar
+        </button>
         </div>
-      </div>|
+      </div>
+    </div>
+    
     </>
   );
 };
+

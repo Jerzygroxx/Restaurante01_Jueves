@@ -1,4 +1,4 @@
-import { platoRegion } from "../../modelos/platosRegion";
+import { platoRegion } from "../../modelos/PlatosRegion";
 
 
 export const AREEGLO_PLATOS_REGION: Array<platoRegion> = [
